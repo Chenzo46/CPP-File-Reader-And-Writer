@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <vector>
 #include "../lib/fread.h"
 
 using namespace std;
